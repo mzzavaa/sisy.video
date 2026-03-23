@@ -1,3 +1,3 @@
 ---
-title: "SISY Video — Show Them What You Sound Like"
+title: "SISY Video - Show Them What You Sound Like"
 ---

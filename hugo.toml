@@ -1,6 +1,6 @@
 baseURL = "https://sisy.video/"
 languageCode = "en-us"
-title = "SISY Video — Show Them What You Sound Like"
+title = "SISY Video - Show Them What You Sound Like"
 
 [params]
   description = "Speaker reels for women experts. Upload your talk clips, build a searchable video portfolio, and let organizers see you before booking you."

@@ -10,9 +10,9 @@ Speaker reel hosting for women experts. Upload clips, build a searchable video p
 
 ## Sections
 
-- Hero — "Show them what you sound like"
+- Hero - "Show them what you sound like"
 - Speaker reel mockup cards (Highlights, Full Sessions, Podcast Clips)
-- How It Works — Upload / Tag / Share (3-step)
+- How It Works - Upload / Tag / Share (3-step)
 - Features grid (Transcription, Search, Embeddable Widget, Analytics, Privacy)
 - Pricing (Free: 1 video · Pro: €9/mo · Teams: custom)
 - CTA
